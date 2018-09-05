@@ -41,10 +41,10 @@ The output of an SDD model contains bounding box information, similar to the fol
 ```
 {
     "output": [
-        {"label": "318", "xmin": 124, "xmax": 245, "ymin": 10, "ymax": 142", "prob": 0.5},
-        {"label": "277", "xmin": 89, "xmax": 166, "ymin": 233, "ymax": 376", "prob": 0.3},
+        {"label": "318", "xmin": 124, "xmax": 245, "ymin": 10, "ymax": 142, "prob": 0.5},
+        {"label": "277", "xmin": 89, "xmax": 166, "ymin": 233, "ymax": 376, "prob": 0.3},
         ...,
-        {"label": "433", "xmin": 355, "xmax": 468, "ymin": 210, "ymax": 266", "prob": 0.001}
+        {"label": "433", "xmin": 355, "xmax": 468, "ymin": 210, "ymax": 266, "prob": 0.001}
     ]
 }
 ```
